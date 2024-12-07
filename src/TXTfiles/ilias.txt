@@ -1,0 +1,4 @@
+Paris to Rome | Flight:FR9874 | Date:22-11-2024 | Time:13:06 | Price:500.0€ | C3 Seat
+Paris to Rome | Flight:FR6587 | Date:29-11-2024 | Time:12:54 AM | Price:234.0€ | C5 Seat
+Paris to Rome | Flight:FR6521 | Date:31-12-2024 | Time:06:11 AM | Price:400.78€ | A3 Seat
+Paris to Rome | Flight:FR6987 | Date:19-12-2024 | Time:05:25 PM | Price:985.63€ | C3 Seat

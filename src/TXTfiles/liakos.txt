@@ -1,0 +1,4 @@
+Paris to Rome | Flight:FR6587 | Date:29-11-2024 | Time:12:54 AM | Price:234.0€ | C1 Seat
+Paris to Berlin | Flight:FR6547 | Date:15-11-2024 | Time:12:36 PM | Price:285.0€ | C5 Seat
+Paris to Berlin | Flight:FR65894 | Date:13-12-2024 | Time:04:41 PM | Price:161.32€ | A1 Seat
+Paris to Rome | Flight:FR6987 | Date:19-12-2024 | Time:05:25 PM | Price:1020.63€ | D4 Seat
